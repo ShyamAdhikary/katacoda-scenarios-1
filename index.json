@@ -26,9 +26,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "python:3.6"
+    "imageid": "nodejs:12"
   }
 }
